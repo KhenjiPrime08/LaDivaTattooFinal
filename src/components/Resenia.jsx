@@ -14,4 +14,5 @@ function Resenia({nombre, cuerpo}) {
   )
 }
 
+
 export default Resenia
